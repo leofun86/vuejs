@@ -1,0 +1,8 @@
+----------------------------------
+-- EXTENSIONES PARA VISUAL CODE --
+----------------------------------
+
+Material Icon Theme: Para que los documentos tengan un ícono por su tipo.
+Vetur: para reconocer las extensiones de vue.
+Vue VSCode Snippets: autocompletador de estructurado de código de VUE.
+Vue-peek: permite acceder desde la etiqueta del componente al código del mismo.
